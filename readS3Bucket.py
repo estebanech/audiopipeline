@@ -39,8 +39,8 @@ def createFolder(name):
         shutil.rmtree(name)
         os.mkdir(name) 
 
-ACCESS_KEY = "AKIAQYEMTLWXHF7E5JGW"
-SECRET_KEY = "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"
+ACCESS_KEY = ""
+SECRET_KEY = ""
 
 bucket_name = 'audiopipelinetestbucket'
 
